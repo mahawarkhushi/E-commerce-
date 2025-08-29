@@ -139,24 +139,3 @@ JSON
 ```
 
 ----------
-
-## 📌 Future Improvements
-
--   User authentication & authorization
-    
--   Cart & Order APIs
-    
--   Deployment on a cloud platform (Heroku / Render / AWS)
-    
-
-----------
-
-## 🤝 Contributing
-
-Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
-
-----------
-
-## 📜 License
-
-This project is licensed under the MIT License.
