@@ -6,4 +6,4 @@ const cartItemSchema = new mongoose.Schema({
   quantity: { type: Number, default: 1 }
 }, { timestamps: true });
 
-module.exports = mongoose.model('CartItem', cartItemSchema);
+module.exports = mongoose.model('cartItem', cartItemSchema);

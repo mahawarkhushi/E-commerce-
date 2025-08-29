@@ -1,5 +1,5 @@
 // controllers/cartController.js
-const CartItem = require('../models/CartItem');
+const CartItem = require('../models/cartItem');
 const Product = require('../models/product');
 const mongoose = require('mongoose');
 
